@@ -1,0 +1,7 @@
+J:\kibra\EjemploAplicacionEnCapas\CapaAccesoADatos\bin\Debug\CapaAccesoADatos.dll
+J:\kibra\EjemploAplicacionEnCapas\CapaAccesoADatos\bin\Debug\CapaAccesoADatos.pdb
+J:\kibra\EjemploAplicacionEnCapas\CapaAccesoADatos\bin\Debug\CapaDatos.dll
+J:\kibra\EjemploAplicacionEnCapas\CapaAccesoADatos\bin\Debug\CapaDatos.pdb
+J:\kibra\EjemploAplicacionEnCapas\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.csprojResolveAssemblyReference.cache
+J:\kibra\EjemploAplicacionEnCapas\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.dll
+J:\kibra\EjemploAplicacionEnCapas\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.pdb

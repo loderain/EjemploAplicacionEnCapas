@@ -1,0 +1,20 @@
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\EjemploAplicacionEnCapas.exe.config
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\EjemploAplicacionEnCapas.exe
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\EjemploAplicacionEnCapas.pdb
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\CapaAccesoADatos.dll
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\CapaDatos.dll
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\CapaAccesoADatos.pdb
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\CapaDatos.pdb
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\MainWindow.baml
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\MainWindow.g.cs
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\App.g.cs
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\EjemploAplicacionEnCapas_MarkupCompile.cache
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\EjemploAplicacionEnCapas.g.resources
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\EjemploAplicacionEnCapas.Properties.Resources.resources
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\EjemploAplicacionEnCapas.exe
+J:\kibra\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\EjemploAplicacionEnCapas.pdb
+J:\ejemplo wpf ado.net\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\bin\Debug\EjemploAplicacionEnCapas.exe.config
+J:\ejemplo wpf ado.net\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\EjemploAplicacionEnCapas.exe
+J:\ejemplo wpf ado.net\EjemploAplicacionEnCapas\EjemploAplicacionEnCapas\obj\Debug\EjemploAplicacionEnCapas.pdb

@@ -1,0 +1,5 @@
+J:\kibra\EjemploAplicacionEnCapas\CapaDatos\bin\Debug\CapaDatos.dll
+J:\kibra\EjemploAplicacionEnCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+J:\kibra\EjemploAplicacionEnCapas\CapaDatos\obj\Debug\CapaDatos.dll
+J:\kibra\EjemploAplicacionEnCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+J:\kibra\EjemploAplicacionEnCapas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
