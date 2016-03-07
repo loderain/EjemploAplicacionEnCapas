@@ -11,9 +11,9 @@ namespace CapaAccesoADatos
     {
         //AQUI LOS DATOS DE CONEXION A TU SERVIDOR SQL SERVER
         public String server = "localhost";
-        public String bbdd = "Ejemplos_Hibernate";
-        public String usuario = "sa";
-        public String pass = "31726681";
+        public String bbdd = "ejemplo_capas";
+        public String usuario = "Usuario de tu bbdd";
+        public String pass = "password de tu bbdd";
 
         public ConexionBuilder() { }
 
